@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### :computer:About
--  **Stack :** Java :zap: | HTML & CSS :fire:	| JavaScript :fireworks: 
+-  **Stack :** Java :zap: | HTML & CSS :fire:	| JavaScript :fireworks: | Learning React 📖
 -  **Hobbies :** :football: Sports :baseball: | Smoking Meats :meat_on_bone: | Hanging with my dogs 🐕🐕 | Video Games :video_game:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
